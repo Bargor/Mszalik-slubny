@@ -1,0 +1,5 @@
+git pull - sciaganie z repozytorium
+git status - lista zmienionych plików
+git add -u - dodaj do nastepnego commita wszystkie zmienione pliki
+git commit -m"Jakiś komentarz" - robi nowego commita
+git push - wyślij zmiany na repozytorium 
